@@ -1,1 +1,7 @@
-Shoes Website
+## Shoes Website
+#### Using technologies in this project :
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
